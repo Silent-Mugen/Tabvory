@@ -1,7 +1,7 @@
 Tabvory Privacy Policy
 
 **Last updated:** November 12, 2026  
-**Developer:** Vernex  
+**Developer:** Silent Mugen 
 **Applies to:** Tabvory desktop browser extension, including version 1.1.1
 
 1. Introduction
