@@ -93,7 +93,7 @@ This policy may be updated to reflect changes in Tabvory's features, data practi
 
 12. Contact and Official Links
 
-Tabvory is developed and maintained by **Vernex**.
+Tabvory is developed and maintained by Silent Mugen.
 
 - Support and privacy questions: [GitHub Issues](https://github.com/Silent-Mugen/Tabvory/issues)
 - Project page: [Tabvory on GitHub](https://github.com/Silent-Mugen/Tabvory)
